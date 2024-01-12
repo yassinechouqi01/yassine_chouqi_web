@@ -1,0 +1,12 @@
+. La MOA définit les besoins, les objectifs et les contraintes du projet. 
+. La DSI gère les systèmes informatiques et les technologies de l'information au sein d'une organisation.
+. MOE C'est l'entité qui met en œuvre les solutions nécessaire.
+pourquoi
+. il permet de stocker collecter et organiser les informations ce qui facilite la prise de la decision
+. il favorise la cumminication et le partage d'information entre les membres
+. automatiser les taches repetetives
+les grandes fammile 
+ERP (Enterprise Resource Planning):Intègre les processus clés tels que finances, ressources humaines et chaîne d'approvisionnement pour améliorer l'efficacité organisationnelle . 
+
+DSS (Decision Support System): aident les dirigeants avec des données et des outils d'analyse pour des décisions éclairées.
+MIS (Management Information System) : collectent et présentent des données opérationnelles pour soutenir la gestion intermédiaire
